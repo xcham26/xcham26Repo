@@ -8,19 +8,7 @@ public class druha {
 		//https://github.com/xcham26/xcham26Repo.git
 		
 		
-		//hdsgfukszhd
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		//hdsgfukszhd
+	//aaaaaaaaaaaaaaaaaaaaaaaa
 
 	}
 
