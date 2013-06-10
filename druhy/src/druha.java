@@ -9,6 +9,18 @@ public class druha {
 		
 		
 		//hdsgfukszhd
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		//hdsgfukszhd
 
 	}
 
